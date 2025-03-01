@@ -6,6 +6,10 @@ How to run:
 - open the public folder, open index.html
 - Enjoy!
 
+![Alt text](demo1.jpg)
+
+![Alt text](demo2.jpg)
+
 Disclaimer
 
 This web application is provided solely for educational purposes.  It is designed to demonstrate the capabilities of web technologies, including but not limited to HTML5 Audio, the Web Audio API, client-side JavaScript, and server-side audio processing using Node.js and related libraries (yt-dlp, express).  It is not intended for, nor should it be used as, a primary means of downloading or distributing copyrighted content.
